@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="Player1">Player 1:  </string>
+    <string name="Player2">Player 2:  </string>
+    <string name="ress_button">Reset</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="load_game">Load Game</string>
+    <string name="save_game">Save Game</string>
+    <string name="two_payer_s">Two Payer\'s</string>
+    <string name="one_payer">One Payer</string>
+    <string name="about">About</string>
+</resources>
